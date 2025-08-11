@@ -210,12 +210,6 @@ The dashboard provides real-time insights into:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Dataset:** UCI Online Retail Dataset
@@ -223,7 +217,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tools:** Streamlit, Plotly, Scikit-learn communities
 
 ---
-
-*Last Updated: August 2025*
-
-**⭐ If you found this project helpful, please consider giving it a star!**
