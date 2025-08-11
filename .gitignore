@@ -205,11 +205,3 @@ tmp/
 # Uncomment these if you want to exclude generated data files
 # data/customer_analytics_data.csv
 # data/dashboard_stats.json
-
-# Images and screenshots
-images/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
