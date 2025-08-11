@@ -1,0 +1,82 @@
+{
+  "total_customers": 1980,
+  "total_revenue": 963342.94,
+  "avg_revenue_per_customer": 486.53683838383836,
+  "avg_recency": 72.40808080808081,
+  "avg_frequency": 4.803535353535353,
+  "avg_monetary": 486.53683838383836,
+  "segment_distribution": {
+    "Loyal Customers": 388,
+    "Potential Loyalists": 380,
+    "Champions": 355,
+    "At Risk": 318,
+    "Cannot Lose Them": 275,
+    "Lost Customers": 264
+  },
+  "cluster_distribution": {
+    "Regular Customers": 780,
+    "Occasional Customers": 623,
+    "VIP Customers": 315,
+    "At-Risk Customers": 262
+  },
+  "revenue_by_segment": {
+    "At Risk": 118895.35,
+    "Cannot Lose Them": 81672.64,
+    "Champions": 282973.46,
+    "Lost Customers": 49857.71,
+    "Loyal Customers": 243299.56,
+    "Potential Loyalists": 186644.22
+  },
+  "top_customers": [
+    {
+      "CustomerID": 10362.0,
+      "Monetary": 1440.3899999999999,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 11797.0,
+      "Monetary": 1440.3899999999999,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 11113.0,
+      "Monetary": 1415.12,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 10331.0,
+      "Monetary": 1364.58,
+      "Customer_Segment": "Loyal Customers"
+    },
+    {
+      "CustomerID": 10633.0,
+      "Monetary": 1364.58,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 11409.0,
+      "Monetary": 1364.58,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 11782.0,
+      "Monetary": 1339.31,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 11926.0,
+      "Monetary": 1288.77,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 11267.0,
+      "Monetary": 1263.5,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "CustomerID": 10578.0,
+      "Monetary": 1212.96,
+      "Customer_Segment": "Loyal Customers"
+    }
+  ]
+}
