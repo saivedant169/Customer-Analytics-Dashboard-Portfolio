@@ -30,16 +30,16 @@ The dashboard provides real-time insights into:
 ## 📸 Dashboard Screenshots
 
 ### Overview Dashboard
-![Dashboard Overview](images/Screenshot%202025-08-11%20at%207.23.02%20PM.png)
+![Dashboard Overview](images/image1.png)
 
 ### RFM Analysis
-![RFM Analysis](images/Screenshot%202025-08-11%20at%207.23.13%20PM.png)
+![RFM Analysis](images/image2.png)
 
 ### Customer Segments
-![Customer Segments](images/Screenshot%202025-08-11%20at%207.23.36%20PM.png)
+![Customer Segments](images/image3.png)
 
 ### Cluster Analysis
-![Cluster Analysis](images/Screenshot%202025-08-11%20at%207.23.52%20PM.png)
+![Cluster Analysis](images/image4.png)
 
 ---
 
